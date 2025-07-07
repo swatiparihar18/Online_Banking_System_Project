@@ -1,44 +1,43 @@
-# Online_Banking_System_Project
-Online Banking System Developed a full-stack online banking web application using Java, JSP, Servlets, and MySQL. Key features include customer registration, authentication, deposit, withdrawal, transfer, and transaction history with responsive UI using Bootstrap.  Tools: Java, JSP, Servlets, MySQL, HTML, Bootstrap, Tomcat, Maven
+# 💳 Online Banking System Project
 
-## 🚀 Features
+An online banking system built using **Java**, **JSP**, **Servlets**, and **MySQL** that allows users to register, login, deposit, withdraw, transfer funds, and view transaction history. Designed for practical learning and demonstrating full-stack web development skills.
 
-- ✅ Customer Registration and Login
-- ✅ Admin Login (optional)
-- ✅ Dashboard with Account Summary
-- ✅ Deposit, Withdraw, and Transfer Funds
-- ✅ Transaction History Tracking
-- ✅ Bootstrap Responsive UI
-- ✅ Session-Based Authentication
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FFA500?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5F0F40?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🛠️ Tech Stack
+---
 
-- **Backend:** Java, Servlets, JSP
-- **Frontend:** HTML5, CSS3, Bootstrap 5
-- **Database:** MySQL
-- **Server:** Apache Tomcat
-- **Build Tool:** Maven
-- **IDE:** IntelliJ IDEA / Eclipse
+## 📌 Features
 
-## 📂 Project Structure
-Online-Banking-System/
-│
-├── src/
-│ └── com/bank/
-│ ├── servlet/
-│ ├── model/
-│ └── util/
-│
-├── web/ or WebContent/
-│ ├── index.jsp
-│ ├── customer-login.jsp
-│ ├── customer-dashboard.jsp
-│ ├── ...
-│
-├── pom.xml
-├── web.xml
-├── banking-dump.sql
-├── README.md
-├── LICENSE
-└── .gitignore
+- 🔐 Customer Registration & Login
+- 🧾 Account Dashboard
+- 💰 Deposit & Withdraw Funds
+- 🔄 Transfer Money Between Accounts
+- 📜 Transaction History
+- 📱 Responsive UI using Bootstrap
+- 🗂️ MVC Structure (Servlets + JSP)
+- 🧠 Session-based authentication
 
+---
+
+## 🛠️ Technologies Used
+
+| Category     | Tech Stack                            |
+|--------------|----------------------------------------|
+| Language     | Java (Servlets & JSP)                 |
+| Database     | MySQL                                 |
+| Frontend     | HTML, CSS, Bootstrap 5                |
+| Server       | Apache Tomcat                         |
+| Build Tool   | Maven                                 |
+| IDE          | IntelliJ IDEA / Eclipse               |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/swatiparihar18/Online_Banking_System_Project.git
